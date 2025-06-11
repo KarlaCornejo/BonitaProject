@@ -3,16 +3,16 @@
   "name" : "nuevaSolicitudVacacionesFragmento",
   "type" : "fragment",
   "modelVersion" : "2.6",
-  "lastUpdate" : 1749437474187,
+  "lastUpdate" : 1749614437501,
   "rows" : [
     [
       {
         "type" : "component",
         "dimension" : {
-          "md" : 12,
+          "md" : 6,
           "sm" : 12,
           "xs" : 12,
-          "lg" : 12
+          "lg" : 6
         },
         "propertyValues" : {
           "hidden" : {
@@ -83,16 +83,14 @@
         "hasValidationError" : false,
         "id" : "pbDatePicker",
         "description" : ""
-      }
-    ],
-    [
+      },
       {
         "type" : "component",
         "dimension" : {
-          "md" : 12,
+          "md" : 6,
           "sm" : 12,
           "xs" : 12,
-          "lg" : 12
+          "lg" : 6
         },
         "propertyValues" : {
           "labelHidden" : {
